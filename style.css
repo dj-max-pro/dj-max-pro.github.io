@@ -10,7 +10,7 @@ body {
   table-layout: fixed;
   min-width: 800px;
   background-color:white;
-  background-image: url(background.jpg);
+  background-image: url("background.jpg");
 }
 canvas {
   width: 500px;
