@@ -9,7 +9,7 @@ body {
   width: 100%;
   table-layout: fixed;
   min-width: 800px;
-  background-color:white;
+  background-color:black;
 }
 canvas {
   width: 500px;
